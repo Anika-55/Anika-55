@@ -38,6 +38,8 @@ Tech: React, mongodb,mongoose,express,tailwindcss,imagekit, ai-intrigation
 
 Dynamic resume creation & live preview
 User authentication & download & upload file
+client-side: https://github.com/Anika-55/ai-resume-builder.git
+server-side: https://github.com/Anika-55/AI-resume-builder-server.git
 
 🚗 Car Rental MERN Stack App
 
@@ -48,6 +50,9 @@ Tech: MongoDB, Express, React, Node.js, JavaScript
  • Admin panel for managing cars & rentals
  • Clean UI with complete frontend → backend integration
 
+ clien: https://github.com/Anika-55/Car-Rental-Website-.git
+ server: https://github.com/Anika-55/Car-Rental-server.git
+
 🚙 Car Rental Backend API
 
 Tech: PostgreSQL, TypeScript, Express, Prisma ORM
@@ -56,6 +61,8 @@ Tech: PostgreSQL, TypeScript, Express, Prisma ORM
  • Secure authentication & role-based access
  • Well-structured database schema & optimized queries
  • Built for scalability & production-ready deployment
+
+ link: https://github.com/Anika-55/level-2-assignment-2.git
 
 
 📫 Connect With Me

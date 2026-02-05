@@ -41,6 +41,19 @@ User authentication & download & upload file
 client-side: https://github.com/Anika-55/ai-resume-builder.git
 server-side: https://github.com/Anika-55/AI-resume-builder-server.git
 
+📬 AI Newsletter SaaS Platform
+
+Tech: Next.js, MongoDB, Prisma, Clerk Auth, OpenAI API, Tailwind CSS, Zod
+
+• AI-powered newsletter generation based on user-selected topics
+• Secure authentication & user dashboard
+• Subscription-based feature access (Free vs Pro)
+• Store, manage, and revisit previously generated newsletters
+• Full-stack SaaS architecture with protected routes & API integration
+
+🔗 Live: https://news-letter-nextjs-website-qqos.vercel.app
+🔗GitHub-Link: https://github.com/Anika-55/news-letter-nextjs-website.git
+
 🚗 Car Rental MERN Stack App
 
 Tech: MongoDB, Express, React, Node.js, JavaScript

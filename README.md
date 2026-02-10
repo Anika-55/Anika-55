@@ -1,3 +1,5 @@
+[!Image](https://github.com/Anika-55/Anika-55/blob/c61f6341272f07c76145da3544ed77b767915502/1anika.png)
+
 👋 Hi, I'm Anika Islam
 
 💻 Frontend / Full-Stack Web Developer in Progress

@@ -1,35 +1,208 @@
-<h1 align="center">Hi 👋, I'm I'm Anika Islam</h1>
-<h3 align="center">💻 Full-Stack Web Developer in Progress 🚀 Passionate about building modern, scalable web applications</h3>
+# 👋 Hi, I'm Anika Islam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-55&label=Profile%20views&color=0e75b6&style=flat" alt="anika-55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anika-55" alt="anika-55" /></a> </p>
-
-- 🔭 I’m currently working on [Full Stack Health Care service](https://github.com/Anika-55/Full-stack-real-estate-website-client.git || https://github.com/Anika-55/Health-Care_Managment-Client.git)
-
-- 🌱 I’m currently learning **GOLang , AWS , Docker , WebSocket**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-my-tau-ivory.vercel.app](https://portfolio-my-tau-ivory.vercel.app)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **myanikaislam1920@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z4_KyGnncLoLE5O1Xhz4x8XJbbni8aUA/view?usp=drive_link](https://drive.google.com/file/d/1z4_KyGnncLoLE5O1Xhz4x8XJbbni8aUA/view?usp=drive_link)
-
-- ⚡ Fun fact **I learn by building — not by watching tutorials endlessly**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anikai57892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikai57892" height="30" width="40" /></a>
-<a href="https://discord.gg/anika05777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anika05777" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Prisma+%7C+Docker+%7C+AWS;Learning+Go+%26+System+Design;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/anika-55">
+    <img src="https://komarev.com/ghpvc/?username=anika-55&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/anika-55?tab=followers">
+    <img src="https://img.shields.io/github/followers/anika-55?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/anika-55?tab=repositories">
+    <img src="https://img.shields.io/github/stars/anika-55?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anika-55&show_icons=true&locale=en&layout=compact" alt="anika-55" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anika-55&show_icons=true&locale=en" alt="anika-55" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anika-55&" alt="anika-55" /></p>
+I'm a **Full-Stack Web Developer** passionate about building modern, scalable, and production-ready web applications.
+
+I enjoy working across the complete development lifecycle — from designing responsive interfaces to building APIs, authentication systems, databases, and deployment infrastructure.
+
+- 🔭 Currently building **Full-Stack Healthcare & Real Estate applications**
+- 🌱 Currently learning **Go, AWS, Docker & WebSockets**
+- 🧠 Improving **Backend Architecture & System Design**
+- 🚀 Interested in **SaaS, scalable systems & real-world products**
+- 💡 I learn by **building real projects**
+- 💬 Ask me about **Full-Stack Development**
+- 📫 Email: **myanikaislam1920@gmail.com**
+- 🌐 Portfolio: **https://portfolio-my-tau-ivory.vercel.app**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1z4_KyGnncLoLE5O1Xhz4x8XJbbni8aUA/view?usp=drive_link)**
+
+> ⚡ **I learn by building — not by watching tutorials endlessly.**
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+</p>
+
+### 🗄️ Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anika-55&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
+    height="180"
+    alt="Anika's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika-55&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=anika-55&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anika-55&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=anika-55&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🏥 Healthcare Management System</h3>
+
+<p>
+A full-stack healthcare management application designed to manage healthcare-related workflows and services.
+</p>
+
+<p>
+<b>Tech Stack:</b>
+<br/>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Express.js</code>
+<code>PostgreSQL</code>
+<code>Prisma</code>
+</p>
+
+<a href="https://github.com/Anika-55/Health-Care_Managment-Client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anika-55&repo=Health-Care_Managment-Client&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🏠 Real Estate Platform</h3>
+
+<p>
+A modern real-estate application focused on property discovery, responsive UI, and scalable architecture.
+</p>
+
+<p>
+<b>Tech Stack:</b>
+<br/>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>PostgreSQL</code>
+<code>Prisma</code>
+<code>Tailwind CSS</code>
+</p>
+
+<a href="https://github.com/Anika-55/Full-stack-real-estate-website-client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anika-55&repo=Full-stack-real-estate-website-client&hide_border=true" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Current Focus
+
+```text
+                         FULL-STACK DEVELOPMENT
+                                  │
+                ┌─────────────────┴─────────────────┐
+                │                                   │
+             FRONTEND                            BACKEND
+                │                                   │
+         React / Next.js                    Node / Express / Go
+                │                                   │
+            TypeScript                    REST APIs / WebSockets
+                │                                   │
+                └─────────────────┬─────────────────┘
+                                  │
+                              DATABASE
+                                  │
+                         PostgreSQL / MongoDB
+                                  │
+                               Prisma
+                                  │
+                       ┌──────────┴──────────┐
+                       │                     │
+                     Docker                 AWS
+                       │                     │
+                       └──────────┬──────────┘
+                                  │
+                       PRODUCTION SYSTEMS 🚀
